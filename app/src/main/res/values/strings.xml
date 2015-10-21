@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"Little Monsters "</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_discography">Discography</string>
+    <string name="title_activity_artisti_bio">Artisti Bio</string>
+    <string name="title_activity_tour_dates">Tour Dates</string>
+    <string name="title_activity_bio">BioActivity</string>
+</resources>

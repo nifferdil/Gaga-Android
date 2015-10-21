@@ -16,8 +16,9 @@
         android:id="@+id/discographyButton"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:backgroundTint="@android:color/black"
-        android:textColor="@android:color/holo_red_light"/>
+        android:textColor="@android:color/white"
+        android:background="@android:color/black"
+        android:layout_marginTop="6dp"/>
 
     <Button
         android:layout_width="match_parent"
@@ -26,8 +27,9 @@
         android:id="@+id/tourDatesButton"
         android:layout_above="@+id/discographyButton"
         android:layout_centerHorizontal="true"
-        android:backgroundTint="@android:color/black"
-        android:textColor="@android:color/holo_red_light"/>
+        android:textColor="@android:color/white"
+        android:background="@android:color/black"
+        android:layout_marginTop="6dp"/>
 
     <Button
         android:layout_width="match_parent"
@@ -36,7 +38,8 @@
         android:id="@+id/artistBioButton"
         android:layout_above="@+id/tourDatesButton"
         android:layout_centerHorizontal="true"
-        android:backgroundTint="@android:color/black"
-        android:textColor="@android:color/holo_red_light"/>
+        android:textColor="@android:color/white"
+        android:background="@android:color/black"
+        android:layout_marginTop="6dp"/>
 
 </RelativeLayout>

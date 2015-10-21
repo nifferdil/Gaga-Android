@@ -25,28 +25,28 @@ public class AlbumLib {
         mAlbums.add(new Album(
                 "Artpop",
                 "2013",
-                "Applause, Swine",
+                "Aura \nVenus \nG.U.Y. \nSexxx Dreams \nJewels N Drugs \nMANiCURE \nDo What U Want \nArtpop \nSwine \nDonatella \nFashion! \nMary Jane Holland \nDope \nGypsy \nApplause",
                 R.drawable.artpop
         ));
 
         mAlbums.add(new Album(
                 "Born This Way",
                 "2011",
-                "Born This Way, Marry The Night, Edge of Glory",
+                "Marry The Night \nBorn This Way \nGovernment Hooker \nJudas \nAmericano \nHair \nScheiße \nBloody Mary \nBad Kids \nHighway Unicorn \nElectric Chapel \nYou and I \nEdge of Glory",
                 R.drawable.born_this_way
         ));
 
         mAlbums.add(new Album (
                 "Fame Monster",
                 "2009",
-                "Bad Romance, Telephone, Poker Face, I Like It Rough",
+                "Bad Romance \nAlejandro \nMonster \nSpeechless \nDance in the Dark \nTelephone \nSo Happy I Could Die \nTeeth",
                 R.drawable.fame_monster
         ));
 
         mAlbums.add(new Album(
                 "The Fame",
                 "2008",
-                "Just Dance, Paparazzi",
+                "Just Dance \nLove Game \nPaparazzi \nPoker Face \nEh,Eh \nBeautiful, Dirty, Rich \nThe Fame \nMoney Honey \nStarstruck \nBoys Boys Boys \nProper Gangsta \nBrown Eyes \nI like It Rough \nSummerboy",
                 R.drawable.the_fame
         ));
     }
